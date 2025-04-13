@@ -1,1 +1,3 @@
 # examen-final-libreria
+
+En este proyecto podemos visualizar una pequeña aplicación en donde una pequeña librería puede organizar, asignar, modificar y hacer uso de la apliación para poder modernizar y facilitar el servicio tanto a los clientes frecuentes como los nuevos clientes, acá el encargado de generar y poner a la venta su producto, en este caso sus libros, podrá realizar multiples funciones como, agregar libros, eliminarlos, colocarles su precion, modificarlos, generar una estadística etc. Esto como bien se mencionaba aparte del beneficio para los clientes genera un beneficio para el establecimiento, las ventas y sobre todo la comodidad de compra y venta del producto.
